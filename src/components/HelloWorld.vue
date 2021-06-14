@@ -87,6 +87,7 @@
 </template>
 
 <script>
+import sourceData from '@/data.json'
 export default {
   name: 'HelloWorld',
   props: {
